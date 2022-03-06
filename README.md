@@ -1,2 +1,2 @@
-# zshrc
+# Zsh
 Zsh config files
